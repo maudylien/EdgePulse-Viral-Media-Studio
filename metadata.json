@@ -1,0 +1,6 @@
+{
+  "name": "EdgePulse Viral Media Studio",
+  "description": "Client-side batch media processor, Ken Burns motion video renderer, binary C2PA/IPTC XMP metadata injector, Gemini multimodal viral optimizer, and Single-File Cloudflare Worker generator for Meta creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
